@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikk0nikk
+- 👋 Hi, I’m Vikas
 - 👀 I’m interested in river studies.
 - 🌱 I’m currently learning hydrology and useful instruments.
 - 💞️ I’m looking to collaborate on a river science project.
